@@ -11,9 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("坎坎坷坷")
         
-        // Do any additional setup after loading the view.
     }
 
 
